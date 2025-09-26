@@ -2,7 +2,7 @@
 
 StyleVibe is a **full-stack web application** that connects customers with beauty professionals. It offers a seamless experience for booking salon services, managing shops, handling payments, and real-time communication.
 
-🌐 **Live Demo**: [(https://stylevibe-app.vercel.app/)]  
+🌐 **Live Demo**: [https://stylevibe-app.vercel.app/]  
 🎥 **Demo Video**: [Add Loom/YouTube link here]  
 
 ---
