@@ -37,7 +37,16 @@ StyleVibe is a **full-stack web application** that connects customers with beaut
 ---
 
 ## 📸 Screenshots
-_Add some UI screenshots here (customer booking, chat, admin dashboard, etc.)_  
+
+### Customer Booking
+![Customer Booking](./screenshots/customer-booking.png)
+
+### Chat with Provider
+![Chat Feature](./screenshots/chat.png)
+
+### Admin Dashboard
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+
 
 ---
 
