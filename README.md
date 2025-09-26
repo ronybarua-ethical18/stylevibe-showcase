@@ -48,8 +48,7 @@ StyleVibe is a **full-stack web application** that connects customers with beaut
 ![Admin Dashboard](./screenshots/admin-dashboard.png)
 <div style="display: flex; gap: 10px; align-items: flex-start;">
   <img src="./screenshots/auth.png" style="max-height: 200px; height: auto; width: auto;"/>
-  <img src="./screenshots/admin-dashboard-users.png" style="max-height: 200px; height: auto; width: auto;"/>
-  <img src="./screenshots/admin-dashboard-reports.png" style="max-height: 200px; height: auto; width: auto;"/>
+  <img src="./screenshots/dashboard.png" style="max-height: 200px; height: auto; width: auto;"/>
 </div>
 
 ---
