@@ -56,6 +56,7 @@ StyleVibe is a **full-stack web application** that connects customers with beaut
 ### Connect stripe account
 <table>
   <tr>
+    <td><img src="./screenshots/stripe_connect_3.png" style="max-height:200px;"></td>
     <td><img src="./screenshots/stripe_connect.png" style="max-height:200px;"></td>
     <td><img src="./screenshots/stripe_connect2.png" style="max-height:200px;"></td>
   </tr>
